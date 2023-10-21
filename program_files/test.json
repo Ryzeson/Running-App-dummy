@@ -1,0 +1,217 @@
+{
+    "workouts": [
+      {
+        "id": 1,
+        "desc": "1 min running / 1.5 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90]
+        ]
+      },
+      {
+        "id": 2,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 3,
+        "desc": "1 min running / 1.5 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90]
+        ]
+      },
+      {
+        "id": 4,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 5,
+        "desc": "1 min running / 1.5 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90],
+          ["run", 60],
+          ["walk", 90]
+        ]
+      },
+      {
+        "id": 6,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 7,
+        "desc": "Rest day"
+      },
+      {
+        "id": 8,
+        "desc": "1.5 mins running / 2 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 60]
+        ]
+      },
+      {
+        "id": 9,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 10,
+        "desc": "1.5 mins running / 2 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 60]
+        ]
+      },
+      {
+        "id": 11,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 12,
+        "desc": "1.5 mins running / 2 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 120],
+          ["run", 90],
+          ["walk", 60]
+        ]
+      },
+      {
+        "id": 13,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 14,
+        "desc": "Rest day"
+      },
+      {
+        "id": 15,
+        "desc": "2 mins running / 2 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 120],
+          ["walk", 120],
+          ["run", 120],
+          ["walk", 120],
+          ["run", 120],
+          ["walk", 120],
+          ["run", 120],
+          ["walk", 120],
+          ["run", 120],
+          ["walk", 120]
+        ]
+      },
+      {
+        "id": 16,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 17,
+        "desc": "2.5 mins running / 2.5 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 150],
+          ["walk", 150],
+          ["run", 150],
+          ["walk", 150],
+          ["run", 150],
+          ["walk", 150],
+          ["run", 150],
+          ["walk", 150]
+        ]
+      },
+      {
+        "id": 18,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 19,
+        "desc": "2.5 mins running / 2.5 mins walking, for 20 minutes",
+        "intervals": [
+          ["run", 150],
+          ["walk", 150],
+          ["run", 150],
+          ["walk", 150],
+          ["run", 150],
+          ["walk", 150],
+          ["run", 150],
+          ["walk", 150]
+        ]
+      },
+      {
+        "id": 20,
+        "desc": "Rest or cross-train"
+      },
+      {
+        "id": 21,
+        "desc": "Rest day"
+      }
+     
+    ]
+  }
